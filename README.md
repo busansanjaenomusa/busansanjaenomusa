@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 건설일용직 퇴직금 계산기
+
+`construction-daily-severance.html` — 브라우저로 바로 여는 단일 HTML 파일.
+- 고용보험 일용근로내역 기준 일(日) 단위 근로일·공수·월 보수총액 입력
+- 계속근로 단절 판정(무근로 공백, 타 현장 연속근로 기준 조정 가능)
+- 퇴직 전 3개월(89~92일) 산정기간에 대한 근로일수/공수/일당/역일 안분 비교
